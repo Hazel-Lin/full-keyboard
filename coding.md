@@ -29,32 +29,32 @@
 
 ### git 命令
 **git 常用命令在zshrc文件中配置** 
-alias ga='git add .'
-alias gcm='git commit -m'
-alias gp='git push'
-alias gl='git pull'
-alias gc='git clone'
+- alias ga='git add .'
+- alias gcm='git commit -m'
+- alias gp='git push'
+- alias gl='git pull'
+- alias gc='git clone'
 
 
 ## Tools
-n
-ni
-Thro
-iTerm2
-uTools
-KeKa
+- n
+- ni
+- Thro
+- iTerm2
+- uTools
+- KeKa
 
 
 ## 插件
-Error Lens
-GitLens
-Git History
-Git Copilot
-Volar
-WakaTime
-Todo Tree
-Draw.io Integration
-ESLint
+- Error Lens
+- GitLens
+- Git History
+- Git Copilot
+- Volar
+- WakaTime
+- Todo Tree
+- Draw.io Integration
+- ESLint
 
 
 
