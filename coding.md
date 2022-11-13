@@ -2,7 +2,7 @@
 ## coding 操作
 简单常规的操作在此就不再赘述了，如：复制粘贴、保存、全选、撤销等等。
 
-首先在Mac上的操作，我将control换成了command，以下出现的com都表示command。
+以下出现的com都表示command。
 
 
 ### VsCode 常用快捷键
